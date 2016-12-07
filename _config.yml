@@ -1,0 +1,13 @@
+# Site settings
+title: dCache.org
+email: support@dcache.de
+description: > # this means to ignore newlines until "baseurl:"
+#baseurl: "https://asifmoh.github.io/G/" # the subpath of your site, e.g. /blog/
+#url: "" # the base hostname & protocol for your site
+
+twitter_username: dcacheorg
+github_username: dCache
+
+# Build settings
+markdown: kramdown
+
